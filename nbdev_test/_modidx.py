@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://GaoyangLiu.github.io',
                 'git_url': 'https://github.com/GaoyangLiu/nbdev-test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': { 'nbdev_test.core': { 'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.gy': ('core.html#gy', 'nbdev_test/core.py'),
+                                 'nbdev_test.core.gy2': ('core.html#gy2', 'nbdev_test/core.py')}}}
