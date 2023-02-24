@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\ngy2\n\n gy2 ()\n\n\nsource\n\n\nfoo\n\n foo ()\n\n\nsource\n\n\ngy\n\n gy ()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2\n\n\n\nfoo()\n\n\ngy()\n\nHello, GY!\n\n\n\ngy2()\n\nGY2"
+  }
+]
